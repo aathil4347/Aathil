@@ -1,2 +1,1 @@
-# Aathil
-marks calculator
+
